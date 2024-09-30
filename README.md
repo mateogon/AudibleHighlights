@@ -199,7 +199,3 @@ For any questions or suggestions, feel free to reach out at [mateogon97@hotmail.
 ---
 
 _Enhance your reading and listening experience with AudibleHighlights!_
-
-```
-
-```
