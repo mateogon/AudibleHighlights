@@ -1,0 +1,7 @@
+# Ignore all files in input and output directories
+/input/*
+/output/*
+
+# Except for the .gitignore files to keep the directories in the repo
+!/input/.gitignore
+!/output/.gitignore

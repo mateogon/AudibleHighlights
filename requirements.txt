@@ -1,0 +1,5 @@
+pydub>=0.25.1
+whisper-timestamped>=1.0.0
+torch>=1.7.0
+python-vlc>=3.0.0
+mutagen>=1.45.1
