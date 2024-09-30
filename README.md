@@ -21,8 +21,6 @@ git clone https://github.com/yourusername/AudibleHighlights.git
 cd AudibleHighlights
 ```
 
-````
-
 ### 2. Set Up a Virtual Environment (Recommended)
 
 It's highly recommended to use a **virtual environment** to manage your project's dependencies.
@@ -202,5 +200,6 @@ For any questions or suggestions, feel free to reach out at [mateogon97@hotmail.
 
 _Enhance your reading and listening experience with AudibleHighlights!_
 
+```
 
-````
+```
